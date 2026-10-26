@@ -1,7 +1,7 @@
 # Rain Sounds Privacy Policy
 
 **Effective date:** October 22, 2026
-**App:** Rain Sounds for Android (com.advancedwholesale.rainsounds)
+**App:** Rain Sounds for Android (com.appodyssey.rainsounds)
 **Developer:** Odyssey
 **Contact:** app.odyssey.us@gmail.com
 
